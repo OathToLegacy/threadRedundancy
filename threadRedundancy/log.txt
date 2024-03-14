@@ -1,0 +1,12 @@
+[13-03-2024 22:20:00] [INFO] Thread has been created
+[13-03-2024 22:20:00] [INFO] Thread has been created
+[13-03-2024 22:20:00] [INFO] Thread has been created
+[13-03-2024 22:20:00] [INFO] Thread has been created
+[13-03-2024 22:20:00] [INFO] Thread has been created
+[13-03-2024 22:20:06] [CRITICAL] Thread 2 has failed
+[13-03-2024 22:28:28] [INFO] Thread has been created
+[13-03-2024 22:28:28] [INFO] Thread has been created
+[13-03-2024 22:28:28] [INFO] Thread has been created
+[13-03-2024 22:28:28] [INFO] Thread has been created
+[13-03-2024 22:28:28] [INFO] Thread has been created
+[13-03-2024 22:28:34] [CRITICAL] Thread 2 has failed
